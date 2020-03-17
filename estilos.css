@@ -31,3 +31,8 @@ a:hover {
   text-decoration: overline;
   color: green;
 }
+
+.destacado {
+  background-color: #FF0ECA;
+  color: orange;
+}
