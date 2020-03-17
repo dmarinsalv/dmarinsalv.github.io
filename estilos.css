@@ -4,19 +4,19 @@
 
 h1 {
   text-align: center;
-  background-color: lightblue;
+  background-color: lightgreen;
 }
 
 h2 {
   text-align: center;
-  background-color: lightgreen;
+  background-color: lightblue;
 }
 
 p {
-  padding: 15px;
-  font-family: verdana;
+  padding: 12px;
+  font-family: tahoma, verdana;
   font-size: 18px;
-  color: #03A7FF;
+  color: green;
 }
 
 a {
