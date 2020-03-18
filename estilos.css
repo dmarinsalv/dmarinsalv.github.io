@@ -5,13 +5,15 @@
 h1 {
   text-align: center;
   background-color: lightgreen;
-  padding-bottom: 5px;
+  padding: 15px;
 }
 
 h2 {
   text-align: center;
   background-color: lightblue;
   padding-bottom: 5px;
+  border: 2px solid cyan;
+  border-radius: 5px;
 }
 
 p {
